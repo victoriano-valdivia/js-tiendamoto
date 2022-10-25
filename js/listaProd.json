@@ -1,0 +1,31 @@
+[
+    {
+        "idprod": 7005,
+        "nombre": "KAWASAKI VULCAN 900 + BICOLOR",
+        "categoria": "CPU_Intel",
+        "precio": 25000,
+        "imagen": "./img/productos/07.jpg"
+    },
+    {
+        "idprod": 7006,
+        "nombre": "KAWASAKI 900 + VERDE",
+        "categoria": "MOTO ",
+        "precio": 25000,
+        "imagen": "./img/productos/01.jpg "
+    },
+    {
+        "idprod": 7006,
+        "nombre": "INDIAN 1200 + BI COLOR",
+        "categoria": "MOTO",
+        "precio": 30000,
+        "imagen": "./img/productos/02.jpg "
+    },
+    {
+        "idprod": 7006,
+        "nombre": "HARLEY DAVIDSON + NEGRA 900",
+        "categoria": "MOTO",
+        "precio": 28000,
+        "imagen": "./img/productos/05.jpg "
+    }
+    
+]
